@@ -149,9 +149,8 @@
   <img src="https://leetcard.jacoblin.cool/Yoga_Sree?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-<div align="center">
-  <img src="https://leetcode.card/Yoga_Sree?theme=dark" alt="LeetCode Problem Stats" />
-</div>
+<!-- <div align="center"> -->
+<!-- </div> -->
 
 ### 📈 Competitive Programming Achievements
 <table align="center">
